@@ -1,7 +1,7 @@
 const Product = () => {
     return (
         <div>
-            <h2>This is Product Page</h2>
+            <h2>This is Product Page and all product added inside the file please</h2>
         </div>
     );
 };
