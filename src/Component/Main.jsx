@@ -3,6 +3,7 @@ const Main = () => {
         <div>
             <h2>This is main</h2>
             <h2>Another heading added</h2>
+            <h2>i create next line</h2>
             
         </div>
     );
